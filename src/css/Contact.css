@@ -1,0 +1,14 @@
+.info{
+    box-sizing: 20px;
+}
+
+.contact_sec{
+    font-size: 30px;
+    display:flex;
+    flex-direction: column;
+}
+
+.button_info{
+    font-size: 30px;
+    float: right;  
+}

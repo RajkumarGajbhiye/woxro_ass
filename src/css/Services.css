@@ -1,0 +1,25 @@
+.serv_details{
+    display: grid;
+    grid-template-columns:34% 34% 32%;
+    grid-gap:14px;
+    padding: 0rem;
+   
+}
+.wd{
+   background-color: lightblue; 
+}
+.wa{
+    background-color: #f6f5f3; 
+ }
+ .md{
+    background-color: #f6f5f3; 
+ }
+ .ed{
+    background-color: #fcf0e4; 
+ }
+ .dm{
+    background-color: #f5f6f8; 
+ }
+ .gd{
+    background-color: #effbfb; 
+ }
